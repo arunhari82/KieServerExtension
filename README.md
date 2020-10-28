@@ -4,7 +4,7 @@ This project is a Kie server extension for extracting the deployed rules content
 # generate JAR file
 mvn clean package
 
-#Copy to KieServer Directory 
+# Copy to KieServer Directory 
 
 cp -rp KieServerReader-0.0.1-SNAPSHOT.jar $EAP_HOME/standalone/deployments/kie-server.war/WEB-INF/lib
 

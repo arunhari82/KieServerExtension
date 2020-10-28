@@ -1,7 +1,7 @@
 # KieServerExtension
 This project is a Kie server extension for extracting the deployed rules content in the KieServer
 
-# generate JAR file
+# Generate JAR file
 mvn clean package
 
 # Copy to KieServer Directory 
